@@ -37,5 +37,5 @@ The output from the Venue Coordinator agent is stored in a JSON file, containing
 To use this project, run the Colab notebook, which initializes the agents and assigns them their respective tasks. The agents will perform their duties, and the results will be saved in output files. Review these files to see the details of the venue, logistics arrangements, and marketing activities.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.txt).
 
